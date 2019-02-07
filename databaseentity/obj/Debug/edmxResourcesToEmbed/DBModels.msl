@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbArafModelStoreContainer" CdmEntityContainer="dbAraf">
+    <EntitySetMapping Name="Kullanicis">
+      <EntityTypeMapping TypeName="dbArafModel.Kullanici">
+        <MappingFragment StoreEntitySet="Kullanici">
+          <ScalarProperty Name="kullaniciID" ColumnName="kullaniciID" />
+          <ScalarProperty Name="kullaniciad" ColumnName="kullaniciad" />
+          <ScalarProperty Name="kullanicisoyad" ColumnName="kullanicisoyad" />
+          <ScalarProperty Name="kullanicimail" ColumnName="kullanicimail" />
+          <ScalarProperty Name="kullanicisifre" ColumnName="kullanicisifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

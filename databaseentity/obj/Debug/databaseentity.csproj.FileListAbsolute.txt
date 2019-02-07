@@ -1,0 +1,17 @@
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\databaseentity.exe.config
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\databaseentity.exe
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\databaseentity.pdb
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.csprojAssemblyReference.cache
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.Properties.Resources.resources
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.csproj.GenerateResource.cache
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.csproj.CoreCompileInputs.cache
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.exe
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.pdb
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.Form1.resources
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\EntityFramework.dll
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\EntityFramework.xml
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.csproj.CopyComplete
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.Form2.resources
+C:\Users\izzet oz\Source\Repos\databaseentity\databaseentity\obj\Debug\databaseentity.YeniKullanici.resources
